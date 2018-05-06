@@ -11,6 +11,24 @@ For this final assignment you have writing prompts about the ideal job you envis
 
 * Describe your ideal job in one or two paragraphs as though you're talking with an industry professional. They're familiar with the business and with the culture, they know the jargon and the buzzwords. Focus on the skills, tools, and / or industry you hope to deeply specialize in.
 
+```
+
+test
+
+```
+
 * Describe your ideal job in one or two paragraphs as though you're talking with a non-technical family member or friend. Avoid jargon and keep things simple while remaining specific. If you went deep in your specialization above, emphasize here the breadth of skills and work.
 
+```
+
+test
+
+```
+
 * Synthesize the two exercises above into a short aspirational "professional summary" that might be appropriate on your LinkedIn profile, resume, or portfolio in the future.
+
+```
+
+test
+
+```
